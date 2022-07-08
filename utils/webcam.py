@@ -1,4 +1,4 @@
-# import the opencv library
+# import the opencv library;
 import cv2
 from PIL import Image
 from keras.models import load_model
