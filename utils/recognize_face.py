@@ -17,7 +17,6 @@ path_to_image ="Tour (67).JPG"
 
 
 
-
 # facenet model
 # load the facenet model
 fn_model = load_model(c.path_to_facenet_model)
